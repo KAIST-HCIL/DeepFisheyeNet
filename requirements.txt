@@ -1,0 +1,7 @@
+matplotlib
+opencv-python
+pip-chill
+scipy
+tb-nightly
+tensorboardx
+torchvision
