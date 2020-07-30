@@ -6,8 +6,8 @@ Our work, **'DeepFisheye: Near-Surface Multi-Finger Tracking Technology Using Fi
 
 ## Related Links
 - Paper
- - Not published Yet. Please sent me an email if you want to see the camera ready version.
- - Email: [keunwoo@kaist.ac.kr](keunwoo@kaist.ac.kr)
+    - Not published Yet. Please sent me an email if you want to see the camera ready version.
+    - Email: [keunwoo@kaist.ac.kr](keunwoo@kaist.ac.kr)
 - [Project page](http://kwpark.io/deepfisheye)
 - [Dataset project page](https://github.com/KeunwooPark/DeepFisheyeDataset)
 - [Pretrained model weight](https://drive.google.com/file/d/1C_kbaw1Ull4D_JHgDkhrLwdjCITzj-8E/view?usp=sharing)
