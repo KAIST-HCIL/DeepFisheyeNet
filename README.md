@@ -4,6 +4,8 @@ Our work, **'DeepFisheye: Near-Surface Multi-Finger Tracking Technology Using Fi
 
 ![technical concept](technical_concept.png)
 
+Near-surface multi-finger tracking (NMFT) technology expands the input space of touchscreens by enabling novel interactions such as mid-air and finger-aware interactions. We present DeepFisheye, a practical NMFT solution for mobile devices, that utilizes a fisheye camera attached at the bottom of a touchscreen. DeepFisheye acquires the image of an interacting hand positioned above the touchscreen using the camera and employs deep learning to estimate the 3D position of each fingertip. Additionally, we created simple rule-based classifiers that estimate the contact finger and hand posture from DeepFisheye’s output.
+
 ## Related Links
 - Paper
     - Not published Yet. Please sent me an email if you want to see the camera ready version.
