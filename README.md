@@ -101,3 +101,6 @@ Please cite our paper in your publication if it helped your research.
   series = {UIST '20}
 }
 ```
+
+# Acknowledgments
+Our code is inspired by [cyclegan](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix).
