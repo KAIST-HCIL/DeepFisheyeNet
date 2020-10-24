@@ -1,15 +1,13 @@
 # DeepFisheye Network
 This is a codebase for training and testing the DeepFisheye network. It is based on Python3 and Pytorch.
-Our work, **'DeepFisheye: Near-Surface Multi-Finger Tracking Technology Using Fisheye Camera'**,  will be presented in UIST 2020.
+Our work, **'DeepFisheye: Near-Surface Multi-Finger Tracking Technology Using Fisheye Camera'**, was presented in UIST 2020.
 
 ![technical concept](technical_concept.png)
 
 Near-surface multi-finger tracking (NMFT) technology expands the input space of touchscreens by enabling novel interactions such as mid-air and finger-aware interactions. We present DeepFisheye, a practical NMFT solution for mobile devices, that utilizes a fisheye camera attached at the bottom of a touchscreen. DeepFisheye acquires the image of an interacting hand positioned above the touchscreen using the camera and employs deep learning to estimate the 3D position of each fingertip. Additionally, we created simple rule-based classifiers that estimate the contact finger and hand posture from DeepFisheye’s output.
 
 ## Related Links
-- Paper
-    - Not published Yet. Please sent me an email if you want to see the camera ready version.
-    - Email: [keunwoo@kaist.ac.kr](keunwoo@kaist.ac.kr)
+- [Paper](https://dl.acm.org/doi/abs/10.1145/3379337.3415818)
 - [Project page](http://kwpark.io/deepfisheye)
 - [Dataset project page](https://github.com/KeunwooPark/DeepFisheyeDataset)
 - [Pretrained model weight](https://drive.google.com/file/d/1C_kbaw1Ull4D_JHgDkhrLwdjCITzj-8E/view?usp=sharing)
@@ -92,13 +90,20 @@ Please cite our paper in your publication if it helped your research.
 
 ```
 @inproceedings{Park2020DeepFisheye,
-  title = {DeepFisheye: Near-Surface Multi-Finger Tracking Technology Using Fisheye Camera},
-  author = {Park, Keunwoo and Kim, Sunbum and Yoon, Youngwoo and Kim, Tae-Kyun and Lee, Geehyuk},
-  booktitle = {Proceedings of the 33rd Annual ACM Symposium on User Interface Software and Technology},
-  year = {2020},
-  publisher = {Association for Computing Machinery},
-  numpages = {15},
-  series = {UIST '20}
+author = {Park, Keunwoo and Kim, Sunbum and Yoon, Youngwoo and Kim, Tae-Kyun and Lee, Geehyuk},
+title = {DeepFisheye: Near-Surface Multi-Finger Tracking Technology Using Fisheye Camera},
+year = {2020},
+isbn = {9781450375146},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3379337.3415818},
+doi = {10.1145/3379337.3415818},
+booktitle = {Proceedings of the 33rd Annual ACM Symposium on User Interface Software and Technology},
+pages = {1132–1146},
+numpages = {15},
+keywords = {near-surface, deep learning, touchscreen, computer vision, finger tracking},
+location = {Virtual Event, USA},
+series = {UIST '20}
 }
 ```
 
