@@ -12,6 +12,9 @@ Near-surface multi-finger tracking (NMFT) technology expands the input space of 
 - [Dataset project page](https://github.com/KeunwooPark/DeepFisheyeDataset)
 - [Pretrained model weight](https://drive.google.com/file/d/1C_kbaw1Ull4D_JHgDkhrLwdjCITzj-8E/view?usp=sharing)
 
+## Demo
+If you want to try out pretrained model, please see [DeepFisheye_Realtime](https://github.com/KeunwooPark/DeepFisheye_Realtime).
+
 ## Short Explanations of the Folders
 
 |Folder Name|What is it?|
